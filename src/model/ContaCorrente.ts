@@ -23,7 +23,7 @@ export class ContaCorrente extends Conta {
             return false
         }
 
-        this.saldo + this._limite - valor
+        this.saldo = this.saldo - valor
         return true
     }
 
