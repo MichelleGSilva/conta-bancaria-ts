@@ -21,5 +21,5 @@ O foco é ensinar e praticar conceitos centrais de programação orientada a obj
 - **TypeScript** — para tipagem forte e OOP  
 - **Node.js** — para execução da aplicação no backend  
 - **readline-sync** — para leitura interativa de inputs no terminal  
-- **ts-node**  
+- **ts-node** — para executar arquivos .ts diretamente
 
