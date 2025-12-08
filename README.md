@@ -51,7 +51,6 @@ O foco do projeto é consolidar conceitos de **programação orientada a objetos
 - **Node.js** — execução da aplicação  
 - **readline-sync** — leitura interativa no terminal  
 - **ts-node** — executar arquivos `.ts` diretamente  
-- (opcional) **fs** — para persistência em arquivo JSON
 
 ---
 ## 🚀 Como executar
